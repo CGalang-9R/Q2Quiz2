@@ -1,0 +1,56 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background-image: url(https://cdn.pixabay.com/photo/2015/04/25/23/32/wormhole-739872_1280.png);
+	background-repeat:no-repeat;
+	background-size: cover;
+}
+
+.container-fluid {
+	color:lightgreen;
+	text-align:center;
+}
+
+h2 {
+	text-align: center;
+}
+
+.container{
+	background-color: black;
+	color:lightgreen;
+	font-family:"Roboto Mono", monospace;
+	padding: 14px;
+	margin-bottom: 10px;
+}
+a {
+	color: lightgreen;
+	text-decoloration: none;
+	text-decoration:none;
+}
+
+.navbar{
+	color:white;
+}
+
+.tab {
+	overflow: hidden;
+}
+
+.tabcontent {
+  display: none;
+}
+
+.footer {
+	margin-top: auto;
+	background-color: black;
+	padding: 40px;
+	text-align: center;
+	font-family:"Roboto Mono", monospace;
+	/* position:fixed; */
+	left: 0;
+	bottom: 0;
+  width: 100%;
+}
